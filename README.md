@@ -1,1 +1,1 @@
-FDS Assignment 1 - Twitter Politics
+FDS Assignment 1: Twitter Politics
